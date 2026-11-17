@@ -39,4 +39,4 @@ Nenhuma instalação externa é necessária. O projeto usa apenas módulos padr�
 1. Certifique-se de ter o **Python 3** instalado na sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [(https://github.com/caiobraza/blackhole.git)
+3. git clone [(https://github.com/caiobraza/blackhole.git)
